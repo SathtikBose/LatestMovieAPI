@@ -6,7 +6,8 @@
             "use": "@vercel/node",
             "config": {
                 "includeFiles": [
-                    "Latest 2025 movies Datasets.csv"
+                    "Latest 2025 movies Datasets.csv",
+                    "public/**"
                 ]
             }
         }
